@@ -1,0 +1,1 @@
+{"columns": ["Predicted", "Actual", "Count"], "data": [["bad customer", "bad customer", 22], ["bad customer", "good customer", 23], ["good customer", "bad customer", 11], ["good customer", "good customer", 94]]}

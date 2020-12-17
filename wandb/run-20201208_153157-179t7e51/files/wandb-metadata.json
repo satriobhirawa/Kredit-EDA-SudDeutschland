@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.6",
+    "heartbeatAt": "2020-12-08T14:31:59.658947",
+    "startedAt": "2020-12-08T14:31:57.956306",
+    "docker": null,
+    "gpu": "GeForce RTX 2070 SUPER",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\Megaport\\AppData\\Roaming\\jupyter\\runtime\\kernel-2199b57f-13fd-44d8-a165-88c3f9c0c961.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/satriobhirawa/Kredit-EDA.git",
+        "commit": "f6165b96ab804bfc78fc90662456a250c860e4c3"
+    },
+    "email": "37176957+satriobhirawa@users.noreply.github.com",
+    "root": "E:/Documents E/GitHub/Kredit-EDA",
+    "host": "Dr-Gnadenlos",
+    "username": "Megaport",
+    "executable": "E:\\Anaconda3\\python.exe"
+}
